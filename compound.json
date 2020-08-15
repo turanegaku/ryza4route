@@ -1,0 +1,2680 @@
+[
+    {
+        "name": "\u304a\u3044\u3057\u3044\u7df4\u308a\u990c",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u98df\u6750\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5c0f\u9ea6\u7c89",
+            "\u30af\u30df\u30cd\u306e\u5b9f",
+            "\uff08\u866b\uff09",
+            "\uff08\u8abf\u5473\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u305b\u305b\u3089\u304e\u306e\u85ab\u98a8",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30b9\u30ab\u30a4\u30d0\u30d6\u30eb",
+            "\u5e78\u305b\u30af\u30ed\u30fc\u30d0\u30fc",
+            "\uff08\u6c17\u4f53\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ]
+    },
+    {
+        "name": "\u3077\u306b\u30ec\u30b6\u30fc",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5927\u3077\u306b\u7389",
+            "\u30cd\u30a4\u30c1\u30e3\u30fc\u30af\u30ed\u30b9",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ]
+    },
+    {
+        "name": "\u3086\u3089\u304e\u306e\u6bd2\u7159",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30dd\u30a4\u30ba\u30f3\u30ad\u30e5\u30fc\u30d6",
+            "\u8d16\u7f6a\u306e\u5927\u91dd",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ]
+    },
+    {
+        "name": "\u30a2\u30eb\u30af\u30a1\u30f3\u30b7\u30a7\u30eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u4e03\u714c\u539f\u77f3",
+            "\u3077\u306b\u3077\u306b\u7389\u30fb\u91d1",
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09"
+        ]
+    },
+    {
+        "name": "\u30a2\u30eb\u30b1\u30df\u30fc\u30da\u30a4\u30f3\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u932c\u91d1\u7e4a\u7dad",
+            "\u690d\u7269\u30a8\u30ad\u30b9",
+            "\uff08\u690d\u7269\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30a2\u30f3\u30d0\u30fc\u30e9\u30a4\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7425\u73c0\u6c34\u6676",
+            "\u7425\u73c0\u306e\u6b20\u7247",
+            "\u7814\u78e8\u5264",
+            "\uff08\u866b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u866b\uff09",
+            "\uff08\u77f3\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30a4\u30d0\u30e9\u306e\u62b1\u64c1",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30af\u30df\u30cd\u306e\u6bd2\u6db2",
+            "\u4e08\u592b\u306a\u3064\u308b",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09",
+            "\uff08\u82b1\uff09"
+        ]
+    },
+    {
+        "name": "\u30a4\u30f3\u30b4\u30c3\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a4\u30f3\u30b4\u30c3\u30c8\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a2\u30de\u30bf\u30a4\u30c8\u9271",
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30a6\u30a9\u30fc\u30d1\u30a6\u30c0\u30fc",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5922\u898b\u308b\u304d\u306e\u3053",
+            "\u30ad\u30ce\u30b3\u30d1\u30a6\u30c0\u30fc",
+            "\uff08\u866b\uff09",
+            "\uff08\u98df\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30a8\u30bf\u30fc\u30f3\u30bb\u30eb\u30d5\u30a3\u30a2",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30e1\u30eb\u30c8\u30b9\u30c8\u30fc\u30f3",
+            "\u30af\u30ea\u30b9\u30bf\u30eb\u30a8\u30ec\u30e1\u30f3\u30c8",
+            "\uff08\u77f3\u6750\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30a8\u30cd\u30eb\u30b8\u30a2\u30cb\u30ab",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+            "\u767d\u970a\u5ca9",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30a8\u30ea\u30ad\u30b7\u30eb\u5264",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30c9\u30f3\u30b1\u30eb\u30cf\u30a4\u30c8",
+            "\u7adc\u8089",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u7adc\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30a8\u30eb\u30c4\u7cd6",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u8abf\u5473\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7518\u9732\u5ca9",
+            "\u30cf\u30c1\u30df\u30c4",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u7802\uff09"
+        ]
+    },
+    {
+        "name": "\u30a8\u30eb\u30c9\u30ed\u30b3\u30fc\u30c9",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09",
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d8\u30d6\u30f3\u30ba\u30b9\u30c8\u30ea\u30f3\u30b0",
+            "\u5e7b\u7363\u306e\u6bdb\u76ae",
+            "\uff08\u7cf8\u7d20\u6750\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30ab\u30af\u30c6\u30eb\u30ec\u30fc\u30d7",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u98df\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7ffc\u7adc\u306e\u30bf\u30de\u30b4",
+            "\u30e9\u30fc\u30bc\u30f3\u30d7\u30c7\u30a3\u30f3\u30b0",
+            "\uff08\u98df\u6750\uff09",
+            "\uff08\u6728\u306e\u5b9f\uff09"
+        ]
+    },
+    {
+        "name": "\u30ac\u30e9\u30b9\u306e\u82b1",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09",
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ed\u30c6\u30b9\u30f4\u30a1\u30c3\u30b5\u9271\u6c34",
+            "\u30c7\u30eb\u30d5\u30a3\u30ed\u30fc\u30ba\u9999",
+            "\uff08\u82b1\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u690d\u7269\uff09"
+        ]
+    },
+    {
+        "name": "\u30af\u30e9\u30a4\u30c8\u30ec\u30d8\u30eb\u30f3",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ec\u30d8\u30eb\u30f3",
+            "\u30ac\u30e9\u30b9\u306e\u82b1",
+            "\uff08\u6c34\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30af\u30e9\u30d5\u30c8",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30af\u30ea\u30b9\u30bf\u30eb\u30a8\u30ec\u30e1\u30f3\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09",
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u6c34\uff09",
+            "\uff08\u7802\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30bb\u30d7\u30c8\u30ea\u30a8\u30f3",
+            "\u30b4\u30fc\u30ec\u30e0\u306e\u30b3\u30a2",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u82b1\uff09",
+            "\uff08\u866b\uff09"
+        ]
+    },
+    {
+        "name": "\u30af\u30ea\u30df\u30cd\u30a2",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a4\u30f3\u30b4\u30c3\u30c8\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5275\u751f\u306e\u9006\u3055\u77f3",
+            "\u30e2\u30eb\u30c7\u30a3\u30ca\u30a4\u30c8",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30af\u30ed\u30fc\u30b9",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u7cf8\u7d20\u6750\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30b0\u30e9\u30b9\u30d3\u30fc\u30f3\u30ba",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u82b1\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ]
+    },
+    {
+        "name": "\u30b2\u30eb\u30d4\u30ab\u30c3\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30dd\u30ea\u30c3\u30b7\u30e5",
+            "\u30b7\u30e3\u30dc\u30f3\u8349",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30b2\u30eb\u30ea\u30ad\u30c3\u30c9",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u6c34\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u7802\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30b3\u30f3\u30d1\u30b9",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u9b54\u5c0e\u66f8\u306e\u5207\u308c\u7aef",
+            "\u30d6\u30ed\u30f3\u30ba\u30a2\u30a4\u30bc\u30f3",
+            "\u30b9\u30d4\u30ea\u30c3\u30c8\u30d5\u30e9\u30ef\u30fc",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30b4\u30eb\u30c9\u30c6\u30ea\u30aa\u30f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a4\u30f3\u30b4\u30c3\u30c8\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30b4\u30eb\u30c7\u30a3\u30ca\u30a4\u30c8",
+            "\u30bb\u30d7\u30c8\u30ea\u30a8\u30f3",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30b7\u30e5\u30c8\u30e9\u30d7\u30e9\u30b8\u30b0",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d7\u30e9\u30b8\u30b0",
+            "\u5e2f\u96fb\u7802",
+            "\uff08\u7802\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a4\u30f3\u30b4\u30c3\u30c8\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5f57\u661f\u5ca9",
+            "\u30da\u30f3\u30c8\u30ca\u30a4\u30c8",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30b9\u30d4\u30ea\u30ca\u30a4\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30e9\u30b9",
+            "\u30de\u30b0\u30cd\u30de\u30eb\u30e2\u30a2",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u7802\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30bb\u30a4\u30f3\u30c8\u30c0\u30a4\u30e4",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u6a39\u7d50\u6676",
+            "\u8056\u77f3\u306e\u6b20\u7247",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30bc\u30c3\u30c6\u30eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7d19\u304f\u305a",
+            "\uff08\u690d\u7269\uff09",
+            "\uff08\u6c34\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30bc\u30e9\u30c1\u30f3\u30d1\u30a6\u30c0\u30fc",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u98df\u6750\uff09",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5927\u304d\u306a\u9aa8",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30bd\u30fc\u30b5\u30ea\u30fc\u30ed\u30fc\u30ba",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30c7\u30eb\u30d5\u30a3\u30ed\u30fc\u30ba",
+            "\u5927\u6728\u306e\u30c4\u30bf",
+            "\uff08\u82b1\uff09",
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u30c7\u30eb\u30d5\u30a3\u30ed\u30fc\u30ba\u9999",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u82b1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ed\u30fc\u30bc\u30f3\u30ea\u30fc\u30d5",
+            "\u65c5\u4eba\u306e\u6c34\u73e0",
+            "\uff08\u304d\u306e\u3053\uff09",
+            "\uff08\u30cf\u30c1\u306e\u5de3\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6c17\u4f53\uff09",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30c9\u30e9\u30a4\u30d3\u30b9\u30af",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u98df\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5c0f\u9ea6\u7c89",
+            "\u30af\u30fc\u30b1\u30f3\u30d5\u30eb\u30fc\u30c4",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30cd\u30a4\u30c1\u30e3\u30fc\u30af\u30ed\u30b9",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u932c\u91d1\u7e4a\u7dad",
+            "\u690d\u7269\u30a8\u30ad\u30b9",
+            "\uff08\u690d\u7269\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30cd\u30af\u30bf\u30eb",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u3077\u306b\u3077\u306b\u7389\u30fb\u8d64",
+            "\u53e4\u4ee3\u6a39\u306e\u679d",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09"
+        ]
+    },
+    {
+        "name": "\u30ce\u30eb\u30c7\u30f3\u30d6\u30e9\u30f3\u30c9",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ec\u30d8\u30eb\u30f3",
+            "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+            "\uff08\u6c34\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30cf\u30c1\u30df\u30c4",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u8abf\u5473\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u30cf\u30c1\u306e\u5de3\uff09",
+            "\uff08\u82b1\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30cf\u30f3\u30de\u30fc",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u767d\u970a\u5ca9",
+            "\u4e08\u592b\u306a\u4e38\u592a",
+            "\u98a8\u5316\u3057\u305f\u77f3\u6750",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30d0\u30cb\u30c3\u30b7\u30b8\u30fc\u30b2\u30eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d5\u30a7\u30b6\u30fc\u30c9\u30e9\u30d5\u30c8",
+            "\u30ec\u30fc\u30c4\u30a7\u30eb\u30d5\u30c8",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30d1\u30fc\u30eb\u30af\u30ea\u30b9\u30bf\u30eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u5b9d\u77f3\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5927\u8c9d\u306e\u767d\u7389",
+            "\u767d\u7070\u7802",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u98df\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30d2\u30ed\u30a4\u30c3\u30af\u30ac\u30a4\u30b9\u30c8",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30df\u30b9\u30c8\u30ea\u30ad\u30c3\u30c9",
+            "\u30a8\u30fc\u30c6\u30eb\u30a2\u30af\u30a2",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u30d2\u30fc\u30ea\u30f3\u30b0\u30c1\u30c3\u30d7",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30df\u30c3\u30af\u30b9\u30aa\u30a4\u30eb",
+            "\u4e7e\u3044\u305f\u6728\u304f\u305a",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09",
+            "\uff08\u6728\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30d3\u30fc\u30b9\u30c8\u30a8\u30a2",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30af\u30ed\u30fc\u30b9\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u52d5\u7269\u306e\u6bdb\u76ae",
+            "\u7ffc\u7adc\u306e\u7ffc",
+            "\uff08\u7cf8\u7d20\u6750\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30d5\u30a7\u30b6\u30fc\u30c9\u30e9\u30d5\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "attribute": [
+            "\u2013"
+        ],
+        "material": [
+            "\u30a8\u30ec\u30e1\u30f3\u30c8\u30b3\u30a2\u30fb\u98a8",
+            "\u30df\u30b9\u30c8\u30ea\u30ad\u30c3\u30c9",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u30d5\u30e9\u30e0",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30bb\u30ad\u30cd\u30c4\u9271",
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30d5\u30e9\u30e0\u30cf\u30f3\u30de\u30fc",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d5\u30e9\u30e0\u30ed\u30c3\u30c9",
+            "\u30cf\u30f3\u30de\u30fc",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30d5\u30e9\u30e0\u30ed\u30c3\u30c9",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u6a39\u306e\u5927\u679d",
+            "\u30d5\u30e9\u30e0",
+            "\uff08\u5b9d\u77f3\uff09",
+            "\uff08\u706b\u85ac\uff09"
+        ]
+    },
+    {
+        "name": "\u30d6\u30ed\u30f3\u30ba\u30a2\u30a4\u30bc\u30f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a4\u30f3\u30b4\u30c3\u30c8\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30b3\u30d9\u30ea\u30ca\u30a4\u30c8",
+            "\u30a2\u30de\u30bf\u30a4\u30c8\u9271",
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30d7\u30cb\u30bc\u30ea\u30fc",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u98df\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30bc\u30e9\u30c1\u30f3\u30d1\u30a6\u30c0\u30fc",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u6c34\uff09"
+        ]
+    },
+    {
+        "name": "\u30d7\u30e9\u30b8\u30b0",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a4\u30ca\u30ba\u30de\u9271",
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u7802\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30d8\u30d6\u30f3\u30ba\u30b9\u30c8\u30ea\u30f3\u30b0",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7cf8\u7d20\u6750\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u77f3\u306e\u6b20\u7247",
+            "\u932c\u91d1\u7e4a\u7dad",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u30db\u30fc\u30ea\u30fc\u30ca\u30c3\u30c8",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u6a39\u306e\u5927\u679d",
+            "\u6df7\u9244\u525b\u677f",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30dd\u30a4\u30ba\u30f3\u30ad\u30e5\u30fc\u30d6",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u9b54\u7363\u306e\u6bd2\u888b",
+            "\u5c0f\u9ea6\u7c89",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09",
+            "\uff08\u8abf\u5473\u6599\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u30dd\u30ea\u30c3\u30b7\u30e5",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u706b\u85ac\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u7802\uff09",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u6c34\uff09"
+        ]
+    },
+    {
+        "name": "\u30de\u30b9\u30bf\u30fc\u30ec\u30b6\u30fc",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u7adc\u7d20\u6750\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5e7b\u7363\u306e\u6bdb\u76ae",
+            "\u5de8\u5927\u306a\u30c4\u30e1",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u6728\u306e\u5b9f\uff09"
+        ]
+    },
+    {
+        "name": "\u30de\u30fc\u30d6\u30eb\u30b9\u30c8\u30fc\u30f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u77f3\u6750\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5275\u751f\u306e\u9006\u3055\u77f3",
+            "\u7c21\u6613\u77f3\u6750",
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u539f\u77f3\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30df\u30b9\u30c8\u30ea\u30ad\u30c3\u30c9",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u53e4\u3073\u305f\u9b54\u5c0e\u66f8",
+            "\u65c5\u4eba\u306e\u6c34\u73e0",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u30df\u30c3\u30af\u30b9\u30aa\u30a4\u30eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u71c3\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u81ea\u7136\u6cb9",
+            "\u30d1\u30eb\u30de\u306e\u5b9f",
+            "\uff08\u6728\u306e\u5b9f\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u30e1\u30eb\u30c8\u30b9\u30c8\u30fc\u30f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u77f3\u6750\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u592a\u967d\u306e\u82b1",
+            "\u30de\u30fc\u30d6\u30eb\u30b9\u30c8\u30fc\u30f3",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u9271\u77f3\uff09"
+        ]
+    },
+    {
+        "name": "\u30e9\u30fc\u30bc\u30f3\u30d7\u30c7\u30a3\u30f3\u30b0",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u98df\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u4f55\u304b\u306e\u30bf\u30de\u30b4",
+            "\u30cf\u30c1\u30df\u30c4",
+            "\uff08\u98df\u6750\uff09",
+            "\uff08\u8abf\u5473\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u30ea\u30b9\u30c8\u30ec\u30a2\u85ac\u74f6",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d2\u30fc\u30ea\u30f3\u30b0\u30c1\u30c3\u30d7",
+            "\u68ee\u306e\u8ce2\u4eba",
+            "\uff08\u304d\u306e\u3053\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u30eb\u30ca\u30fc\u30e9\u30f3\u30d7",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u2013"
+        ],
+        "material": [
+            "\u30bb\u30a4\u30f3\u30c8\u30c0\u30a4\u30e4",
+            "\u8056\u306a\u308b\u96eb",
+            "\uff08\u5b9d\u77f3\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30eb\u30d5\u30c8",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a6\u30a3\u30f3\u30b0\u30d7\u30e9\u30f3\u30c8",
+            "\uff08\u6c17\u4f53\uff09",
+            "\uff08\u866b\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30eb\u30fc\u30da\u4ed8\u304d\u30b3\u30f3\u30d1\u30b9",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a1\u53d6\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5e7b\u8996\u30eb\u30fc\u30da",
+            "\u30b3\u30f3\u30d1\u30b9",
+            "\uff08\u5b9d\u77f3\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u30ec\u30d8\u30eb\u30f3",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a2\u30af\u30a2\u9271",
+            "\uff08\u6c34\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30ec\u30fc\u30c4\u30a7\u30eb\u30d5\u30c8",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30eb\u30d5\u30c8",
+            "\u30df\u30b9\u30c8\u30ea\u30ad\u30c3\u30c9",
+            "\uff08\u6c17\u4f53\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u30ed\u30fc\u30bc\u30d5\u30e9\u30e0",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d5\u30e9\u30e0",
+            "\u706b\u85ac\u306e\u3082\u3068",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u4e2d\u548c\u5264\u30fb\u7dd1",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u690d\u7269\uff09",
+            "\uff08\u6c34\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u77f3\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u4e2d\u548c\u5264\u30fb\u8d64",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u82b1\uff09",
+            "\uff08\u6c34\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u4e2d\u548c\u5264\u30fb\u9752",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u6c34\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u82b1\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u4e2d\u548c\u5264\u30fb\u9ec4",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u7802\uff09",
+            "\uff08\u6c34\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u7cf8\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u5275\u4e16\u306e\u69cc",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30de\u30fc\u30d6\u30eb\u30b9\u30c8\u30fc\u30f3",
+            "\u5275\u751f\u306e\u9006\u3055\u77f3",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ]
+    },
+    {
+        "name": "\u5973\u795e\u306e\u98f2\u307f\u3055\u3057",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u306a\u308b\u96eb",
+            "\u8d85\u7d14\u6c34",
+            "\uff08\u85ac\u54c1\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ]
+    },
+    {
+        "name": "\u5996\u85ac\u30a8\u30dc\u30cb\u30a2\u30eb",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7981\u5fcc\u306e\u96eb",
+            "\u30a8\u30b9\u30d7\u30e9\u30f3\u30c8",
+            "\uff08\u866b\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09"
+        ]
+    },
+    {
+        "name": "\u5c0f\u9ea6\u7c89",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u98df\u6750\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30f4\u30a1\u30c3\u30b5\u9ea6",
+            "\u7d19\u304f\u305a",
+            "\uff08\u71c3\u6599\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u706b\u85ac\uff09"
+        ]
+    },
+    {
+        "name": "\u5e2f\u96fb\u7802",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7802\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a8\u30e1\u30e9\u30eb\u30c9\u30b0\u30e9\u30b9",
+            "\u96f7\u306e\u547c\u3073\u9234",
+            "\uff08\u7802\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u91d1\u5c5e\uff09"
+        ]
+    },
+    {
+        "name": "\u5e7b\u8996\u30eb\u30fc\u30da",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ac\u30e9\u30b9\u306e\u82b1",
+            "\u30bb\u30a4\u30f3\u30c8\u30c0\u30a4\u30e4",
+            "\uff08\u91d1\u5c5e\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u5f37\u529b\u306a\u9b5a\u306e\u30a8\u30b5",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u98df\u6750\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30af\u30df\u30cd\u306e\u5b9f",
+            "\u4e03\u8272\u8461\u8404",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u304d\u306e\u3053\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u63a2\u691c\u30bb\u30c3\u30c8",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u98a8\u306e\u7cbe\u306e\u9774",
+            "\u63a2\u7d22\u30ea\u30e5\u30c3\u30af",
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u866b\uff09"
+        ]
+    },
+    {
+        "name": "\u63a2\u7d22\u30ea\u30e5\u30c3\u30af",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d3\u30fc\u30b9\u30c8\u30a8\u30a2",
+            "\u30a2\u30eb\u30b1\u30df\u30fc\u30da\u30a4\u30f3\u30c8",
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u65c5\u4eba\u306e\u6c34\u73e0",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6c34\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u6ce1\u7acb\u3064\u6c34",
+            "\u30bc\u30c3\u30c6\u30eb",
+            "\uff08\u6728\u306e\u5b9f\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09"
+        ]
+    },
+    {
+        "name": "\u6642\u7a7a\u306e\u5929\u6587\u6642\u8a08",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a2\u30eb\u30af\u30a1\u30f3\u30b7\u30a7\u30eb",
+            "\u30af\u30ea\u30df\u30cd\u30a2",
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u690d\u7269\u306e\u7a2e",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7a2e\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u82e5\u6728\u306e\u679d\u8449",
+            "\uff08\u8abf\u5473\u6599\uff09",
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u690d\u7269\uff09"
+        ]
+    },
+    {
+        "name": "\u6c34\u306e\u7a2e",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7a2e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u690d\u7269\u30a8\u30ad\u30b9",
+            "\uff08\u8abf\u5473\u6599\uff09",
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09"
+        ]
+    },
+    {
+        "name": "\u6c37\u3073\u3057",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u6c34\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u6ce1\u96f2\u306e\u5f3e\u4e38",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d6\u30ed\u30f3\u30ba\u30a2\u30a4\u30bc\u30f3",
+            "\u6ce1\u7acb\u3064\u6c34",
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u6d77\u8349\u571f",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7802\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5869\u8349",
+            "\u3084\u308f\u3089\u304b\u3044\u7802",
+            "\uff08\u7802\uff09",
+            "\uff08\u6c34\uff09"
+        ]
+    },
+    {
+        "name": "\u6df7\u9244\u525b\u677f",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a4\u30f3\u30b4\u30c3\u30c8",
+            "\u7c21\u6613\u5efa\u6750",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u706b\u306e\u7a2e",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7a2e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7114\u306e\u9ed2\u7802",
+            "\uff08\u8abf\u5473\u6599\uff09",
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u706b\u85ac\uff09"
+        ]
+    },
+    {
+        "name": "\u706b\u85ac\u306e\u3082\u3068",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u706b\u85ac\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u767d\u7159\u70ad",
+            "\u30de\u30b0\u30de\u30d1\u30a6\u30c0\u30fc",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u7206\u7c89\u3046\u306b",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u7206\u5f3e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u7652\u3057\u306e\u85ac\u7389",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u65c5\u4eba\u306e\u6c34\u73e0",
+            "\u30e1\u30c7\u30a3\u30a6\u30e0\u85ac\u9aa8",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u7652\u3057\u306e\u8edf\u818f",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u82e6\u3044\u6839\u3063\u3053",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u82b1\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u767e\u85ac\u714e\u3058",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u6e05\u6c34\u306e\u767d\u59eb",
+            "\u7d05\u8349",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u9b5a\u4ecb\u985e\uff09"
+        ]
+    },
+    {
+        "name": "\u77f3\u306e\u7a2e",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7a2e\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u937e\u4e73\u77f3\u306e\u6b20\u7247",
+            "\uff08\u8abf\u5473\u6599\uff09",
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u77f3\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u7814\u78e8\u5264",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u767d\u7070\u7802",
+            "\uff08\u7802\uff09",
+            "\uff08\u9271\u77f3\uff09"
+        ]
+    },
+    {
+        "name": "\u795e\u79d8\u306e\u7a2e",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7a2e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u77f3\u306e\u6b20\u7247",
+            "\uff08\u8abf\u5473\u6599\uff09",
+            "\uff08\u3046\u306b\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u795e\u79d8\u306e\u7fbd\u8863",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d8\u30d6\u30f3\u30ba\u30b9\u30c8\u30ea\u30f3\u30b0",
+            "\u30c7\u30eb\u30d5\u30a3\u30ed\u30fc\u30ba\u9999",
+            "\uff08\u6c17\u4f53\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u7981\u5fcc\u306e\u96eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7570\u754c\u306e\u8150\u6728",
+            "\u30dd\u30a4\u30ba\u30f3\u30ad\u30e5\u30fc\u30d6",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09"
+        ]
+    },
+    {
+        "name": "\u7c21\u6613\u5efa\u6750",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6728\u6750\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a2\u30a4\u30d2\u30a7",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u6728\u306e\u5b9f\uff09"
+        ]
+    },
+    {
+        "name": "\u7c21\u6613\u77f3\u6750",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u77f3\u6750\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u98a8\u5316\u3057\u305f\u77f3\u6750",
+            "\uff08\u77f3\u6750\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u7cbe\u970a\u306e\u5c0f\u74f6",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09",
+            "\uff08\u96d1\u8ca8\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30e9\u30d4\u30b9\u30fb\u30d1\u30d4\u30e8\u30f3",
+            "\u5149\u308b\u7802",
+            "\uff08\u866b\uff09",
+            "\uff08\u539f\u77f3\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u5b9d\u77f3\uff09"
+        ]
+    },
+    {
+        "name": "\u8056\u306a\u308b\u96eb",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8056\u6a39\u306e\u8449",
+            "\u7981\u5fcc\u306e\u96eb",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09",
+            "\uff08\u6c34\uff09"
+        ]
+    },
+    {
+        "name": "\u8349\u5208\u308a\u938c",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5927\u304d\u306a\u9aa8",
+            "\u7814\u78e8\u5264",
+            "\uff08\u91d1\u5c5e\uff09",
+            "\uff08\u6728\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u84bc\u708e\u306e\u7a2e\u706b",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u706b\u85ac\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5e38\u4e16\u306e\u7114",
+            "\u706b\u85ac\u306e\u3082\u3068",
+            "\uff08\u7802\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u7adc\u7d20\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u85aa\u5272\u308a\u65a7",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30a2\u30a4\u30d2\u30a7",
+            "\u7814\u78e8\u5264",
+            "\uff08\u91d1\u5c5e\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u866b\u53d6\u308a\u7db2",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u9999\u308b\u871c\u6728",
+            "\u932c\u91d1\u7e4a\u7dad",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u88dc\u52a9\u7fa9\u624b",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u5171\u632f\u306e\u7389\u77f3",
+            "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+            "\uff08\u7adc\u7d20\u6750\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u8a98\u5f15\u706b\u74f6",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30ed\u30fc\u30bc\u30d5\u30e9\u30e0",
+            "\u84bc\u708e\u306e\u7a2e\u706b",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u8a98\u9b54\u9999",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u96d1\u8ca8\uff09",
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u9b54\u77f3\u306e\u6b20\u7247",
+            "\u4e03\u8272\u8461\u8404",
+            "\uff08\u6bd2\u306e\u6750\u6599\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u304d\u306e\u3053\uff09"
+        ]
+    },
+    {
+        "name": "\u8ce2\u4eba\u306e\u5b9d\u5178",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8ce2\u8005\u306e\u77f3",
+            "\u30a2\u30eb\u30af\u30a1\u30f3\u30b7\u30a7\u30eb",
+            "\u7cbe\u970a\u306e\u5c0f\u74f6",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ]
+    },
+    {
+        "name": "\u8ce2\u8005\u306e\u77f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09",
+            "\uff08\u5b9d\u77f3\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u8d64\u306e\u8f1d\u77f3",
+            "\u30af\u30ea\u30b9\u30bf\u30eb\u30a8\u30ec\u30e1\u30f3\u30c8",
+            "\u7adc\u773c",
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09"
+        ]
+    },
+    {
+        "name": "\u8d64\u306e\u8f1d\u77f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u30a8\u30ea\u30ad\u30b7\u30eb\uff09",
+            "\uff08\u795e\u79d8\u306e\u529b\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7570\u754c\u306e\u30b3\u30a2",
+            "\u8056\u306a\u308b\u96eb",
+            "\u7981\u5fcc\u306e\u96eb",
+            "\u7adc\u773c"
+        ],
+        "additional_category": [
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u85ac\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u8d85\u7d14\u6c34",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u6c34\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u65c5\u4eba\u306e\u6c34\u73e0",
+            "\u8056\u6a39\u306e\u8449",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u7802\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u85ac\u306e\u6750\u6599\uff09"
+        ]
+    },
+    {
+        "name": "\u8d85\u92fc\u30ae\u30a2",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u91d1\u5c5e\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7fe1\u7fe0\u306e\u714c\u6c34",
+            "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+            "\uff08\u9271\u77f3\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u8e8d\u52d5\u30b7\u30ed\u30c3\u30d7",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u56de\u5fa9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u2013"
+        ],
+        "material": [
+            "\u30cf\u30c1\u30df\u30c4",
+            "\u5909\u7570\u30c8\u30fc\u30f3",
+            "\uff08\u30cf\u30c1\u306e\u5de3\uff09",
+            "\uff08\u6728\u306e\u5b9f\uff09"
+        ]
+    },
+    {
+        "name": "\u8edf\u5f0f\u30b4\u30e0\u77f3",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\uff08\u6728\u306e\u5b9f\uff09",
+            "\uff08\u7802\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ]
+    },
+    {
+        "name": "\u91e3\u308a\u7aff",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u304a\u3044\u3057\u3044\u7df4\u308a\u990c",
+            "\u932c\u91d1\u7e4a\u7dad",
+            "\uff08\u6728\u6750\uff09",
+            "\uff08\u866b\uff09"
+        ]
+    },
+    {
+        "name": "\u91e3\u308a\u7aff\u7db2",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u866b\u53d6\u308a\u7db2",
+            "\u91e3\u308a\u7aff",
+            "\uff08\u304d\u306e\u3053\uff09",
+            "\uff08\u98df\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u932c\u91d1\u7e4a\u7dad",
+        "use": [
+            "\u7d20\u6750\u30a2\u30a4\u30c6\u30e0",
+            "\u8abf\u5408\u54c1"
+        ],
+        "category": [
+            "\uff08\u7cf8\u7d20\u6750\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7dbf\u6bdb\u8349",
+            "\uff08\u690d\u7269\uff09",
+            "\uff08\u71c3\u6599\uff09",
+            "\uff08\u4e2d\u548c\u5264\uff09"
+        ],
+        "additional_category": [
+            "\uff08\u96d1\u8ca8\uff09"
+        ]
+    },
+    {
+        "name": "\u938c\u65a7",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u6c37\u5c5e\u6027",
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u85aa\u5272\u308a\u65a7",
+            "\u8349\u5208\u308a\u938c",
+            "\uff08\u52d5\u7269\u7d20\u6750\uff09",
+            "\uff08\u6728\u6750\uff09"
+        ]
+    },
+    {
+        "name": "\u96f7\u306e\u547c\u3073\u9234",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u653b\u6483\u7528"
+        ],
+        "category": [
+            "\uff08\u9b54\u6cd5\u306e\u9053\u5177\uff09"
+        ],
+        "attribute": [
+            "\u96f7\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30d7\u30e9\u30b8\u30b0",
+            "\u30b9\u30bf\u30eb\u30c1\u30a6\u30e0",
+            "\uff08\u539f\u77f3\uff09",
+            "\uff08\u6c17\u4f53\uff09"
+        ]
+    },
+    {
+        "name": "\u98a8\u306e\u7cbe\u306e\u9774",
+        "use": [
+            "\u88c5\u5099\u30a2\u30a4\u30c6\u30e0",
+            "\u63a2\u7d22\u88c5\u5099"
+        ],
+        "category": [
+            "\uff08\u63a1\u53d6\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u98a8\u5c5e\u6027"
+        ],
+        "material": [
+            "\u7cbe\u970a\u306e\u5c0f\u74f6",
+            "\u30bd\u30fc\u30b5\u30ea\u30fc\u30ed\u30fc\u30ba",
+            "\uff08\u866b\uff09",
+            "\uff08\u3077\u306b\u3077\u306b\uff09"
+        ]
+    },
+    {
+        "name": "\u9b5a\u6cb9\u30ea\u30ad\u30c3\u30c9",
+        "use": [
+            "\u4f7f\u7528\u30a2\u30a4\u30c6\u30e0",
+            "\u6226\u95d8\u30a2\u30a4\u30c6\u30e0",
+            "\u88dc\u52a9\u7528"
+        ],
+        "category": [
+            "\uff08\u85ac\u54c1\uff09"
+        ],
+        "attribute": [
+            "\u706b\u5c5e\u6027",
+            "\u6c37\u5c5e\u6027"
+        ],
+        "material": [
+            "\u30b5\u30eb\u30c7\u30a3\u30f3",
+            "\u5869\u8349",
+            "\uff08\u9b5a\u4ecb\u985e\uff09",
+            "\uff08\u71c3\u6599\uff09"
+        ]
+    }
+]
